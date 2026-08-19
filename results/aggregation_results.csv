@@ -1,0 +1,2 @@
+database,workload,runs,p50_ms,p95_ms
+CognoDB,group_by_outgoing_votes,100,2106.3591000020097,2180.070819998582

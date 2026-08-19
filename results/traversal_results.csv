@@ -1,0 +1,4 @@
+database,workload,depth,status,completed_runs,p50_ms,p95_ms,error
+CognoDB,exact_hop_traversal,1,complete,100,408.56369999892195,772.3754650000046,
+CognoDB,exact_hop_traversal,2,complete,100,448.392350001086,779.3953849944954,
+CognoDB,exact_hop_traversal,3,complete,100,610.5337499975576,1741.663104997496,

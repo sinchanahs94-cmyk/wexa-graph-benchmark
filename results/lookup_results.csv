@@ -1,0 +1,3 @@
+database,workload,runs,p50_ms,p95_ms
+CognoDB,indexed_lookup,100,409.32190000239643,714.1913099971134
+CognoDB,filtered_lookup,100,248.48560000100406,550.0917699991986
