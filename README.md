@@ -18,7 +18,7 @@ This project benchmarks CognoDB Cloud using the Wiki-Vote directed social-networ
 
 The benchmark covers:
 
-- Dataset ingestion throughput
+- Dataset loading and verification
 - Exact 1-hop traversal
 - Exact 2-hop traversal
 - Exact 3-hop traversal
